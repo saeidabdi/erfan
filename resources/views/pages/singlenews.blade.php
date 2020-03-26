@@ -1,5 +1,5 @@
 @include('header')
-<div class="content container newsmain" style="width: 100%;" v-if="logined">
+<div class="content container newsmain" style="width: 100%;">
     <h1>{{$news->title}}</h1>
     <div class="news_box_main" style="min-height: 400px;">
         <div class="col-md-5 left" style="display: inline-block;">

@@ -1,5 +1,5 @@
 @include('header')
-<div class="content container newsmain" style="width: 100%;" v-if="logined">
+<div class="content container newsmain" style="width: 100%;">
     <h1>اخبار چاپ</h1>
     <div class="news_box_main">
         <header>

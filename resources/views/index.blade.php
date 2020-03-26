@@ -69,7 +69,7 @@
                     <div class="thumb_date right">
                         {{$news->time_added}}
                     </div>
-                    {{$news->title}}
+                    {{mb_strimwidth($news->title, 0, 50, '...')}}
                 </a>
                 @endforeach
             </div>
