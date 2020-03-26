@@ -1,0 +1,13 @@
+
+cPanel:
+
+userName:jaguartr
+pass:8uyBvC3n3123!!@@a#*
+
+
+
+
+panel :
+
+userName : lotfy
+pass:lotfy!!@@*#
